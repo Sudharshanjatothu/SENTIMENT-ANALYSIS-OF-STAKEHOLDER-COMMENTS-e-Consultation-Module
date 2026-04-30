@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+transformers
+numpy<2
+python-multipart
+nltk
+wordcloud
